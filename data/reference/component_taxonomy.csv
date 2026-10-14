@@ -1,0 +1,8 @@
+country_code,index_family,source_component_code,source_component,classification_system,hierarchy_level,parent_component_code,canonical_macro_bucket,included_in_decomposition,effective_start,effective_end,mapping_status
+US,CPI-U,CPIAUCSL,all_items,BLS CPI-U special aggregates,0,,all_items,false,2026-01-01,2026-12-01,published
+US,CPI-U,CPIUFDSL,food,BLS CPI-U special aggregates,1,CPIAUCSL,food,true,2026-01-01,2026-12-01,published
+US,CPI-U,CPIENGSL,energy,BLS CPI-U special aggregates,1,CPIAUCSL,energy,true,2026-01-01,2026-12-01,published
+US,CPI-U,CUSR0000SAH1,shelter,BLS CPI-U special aggregates,1,CPIAUCSL,shelter,true,2026-01-01,2026-12-01,published
+US,CPI-U,CUSR0000SACL1E,commodities_less_food_and_energy_commodities,BLS CPI-U special aggregates,1,CPIAUCSL,core_goods,true,2026-01-01,2026-12-01,published
+US,CPI-U,DERIVED:CORE_SERVICES_EX_HOUSING,core_services_ex_housing,MacroRegime accounting residual,1,CPIAUCSL,core_services_ex_housing,true,2026-01-01,2026-12-01,derived
+US,CPI-U,CUSR0000SASLE,services_less_energy_services,BLS CPI-U special aggregates,1,CPIAUCSL,unassigned,false,2026-01-01,2026-12-01,overlapping_aggregate

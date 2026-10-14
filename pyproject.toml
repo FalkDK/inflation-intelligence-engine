@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inflation-intelligence-engine"
+version = "0.1.0"
+description = "A production-quality inflation analytics pipeline."
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=5.0",
+    "matplotlib>=3.7",
+    "openpyxl>=3.1",
+    "pandas>=2.2.3,<3",
+    "pyarrow>=12.0",
+    "python-dotenv>=1.0",
+    "requests>=2.31",
+    "streamlit>=1.56",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.4",
+]
+
+[project.scripts]
+inflation-automation = "inflation_engine.automation:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+markers = ["integration: requires locally fetched raw or processed inflation data"]

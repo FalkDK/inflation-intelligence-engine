@@ -1,0 +1,6 @@
+reference_date,effective_start,effective_end,country_code,index_family,bucket,weight_pct,source,source_url,weight_basis_year,estimation_method
+2025-12-01,2026-01-01,2026-12-01,US,CPI-U,food,13.698,U.S. Bureau of Labor Statistics,https://www.bls.gov/cpi/tables/relative-importance/2025.htm,2024,published_relative_importance
+2025-12-01,2026-01-01,2026-12-01,US,CPI-U,energy,6.383,U.S. Bureau of Labor Statistics,https://www.bls.gov/cpi/tables/relative-importance/2025.htm,2024,published_relative_importance
+2025-12-01,2026-01-01,2026-12-01,US,CPI-U,shelter,35.625,U.S. Bureau of Labor Statistics,https://www.bls.gov/cpi/tables/relative-importance/2025.htm,2024,published_relative_importance
+2025-12-01,2026-01-01,2026-12-01,US,CPI-U,core_goods,19.176,U.S. Bureau of Labor Statistics,https://www.bls.gov/cpi/tables/relative-importance/2025.htm,2024,published_relative_importance
+2025-12-01,2026-01-01,2026-12-01,US,CPI-U,core_services_ex_housing,25.119,U.S. Bureau of Labor Statistics,https://www.bls.gov/cpi/tables/relative-importance/2025.htm,2024,services_less_energy_minus_shelter

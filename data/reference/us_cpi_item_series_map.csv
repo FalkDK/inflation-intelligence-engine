@@ -1,0 +1,269 @@
+level,label,weight_pct,series_id
+1,Apparel,2.368,CUSR0000SAA
+1,Education and communication,5.846,CUSR0000SAE
+1,Food and beverages,14.539,CUSR0000SAF
+1,Housing,44.469,CUSR0000SAH
+1,Medical care,8.423,CUSR0000SAM
+1,Other goods and services,2.902,CUSR0000SAG
+1,Recreation,5.137,CUSR0000SAR
+1,Transportation,16.316,CUSR0000SAT
+2,Communication,3.244,CUSR0000SAE2
+2,Education,2.602,CUSR0000SAE1
+2,Food,13.698,CUSR0000SAF1
+2,Footwear,0.585,CUSR0000SEAE
+2,Fuels and utilities,4.546,CUSR0000SAH2
+2,Household furnishings and operations,4.298,CUSR0000SAH3
+2,Infants' and toddlers' apparel,0.103,CUSR0000SEAF
+2,Jewelry and watches,0.163,CUSR0000SEAG
+2,Medical care commodities,1.489,CUSR0000SAM1
+2,Medical care services,6.935,CUSR0000SAM2
+2,Men's and boys' apparel,0.588,CUSR0000SAA1
+2,Other recreation services,1.841,CUSR0000SERF
+2,Other recreational goods,0.38,CUSR0000SERE
+2,Personal care,2.456,CUSR0000SAG1
+2,"Pets, pet products and services",1.158,CUSR0000SERB
+2,Photography,0.064,CUSR0000SERD
+2,Private transportation,14.832,CUSR0000SAT1
+2,Public transportation,1.485,CUSR0000SETG
+2,Recreational reading materials,0.114,CUSR0000SERG
+2,Shelter,35.625,CUSR0000SAH1
+2,Sporting goods,0.526,CUSR0000SERC
+2,Tobacco and smoking products,0.445,CUSR0000SEGA
+2,Video and audio,1.053,CUSR0000SERA
+2,Women's and girls' apparel,0.928,CUSR0000SAA2
+3,Admissions,0.704,CUSR0000SERF02
+3,Airline fares,0.881,CUSR0000SETG01
+3,Alcoholic beverages,0.84,CUSR0000SAF116
+3,Appliances,0.191,CUSR0000SEHK
+3,Audio equipment,0.046,CUSR0000SERA05
+3,Boys' and girls' footwear,0.124,CUSR0000SEAE02
+3,Boys' apparel,0.116,CUSR0000SEAB
+3,"Cable, satellite, and live streaming television service",0.606,CUSR0000SERA02
+3,Cigarettes,0.327,CUSR0000SEGA01
+3,"Club membership for shopping clubs, fraternal, or other organizations, or participant sports fees",0.766,CUSR0000SERF01
+3,Educational books and supplies,0.038,CUSR0000SEEA
+3,Fees for lessons or instructions,0.158,CUSR0000SERF03
+3,Food at home,8.325,CUSR0000SAF11
+3,Food away from home,5.373,CUSR0000SEFV
+3,Furniture and bedding,0.884,CUSR0000SEHJ
+3,Girls' apparel,0.141,CUSR0000SEAD
+3,Health insurance,0.89,CUUR0000SEME
+3,Hospital and related services,2.618,CUSR0000SEMD
+3,Household energy,3.402,CUSR0000SAH21
+3,Household operations,0.881,CUUR0000SEHP
+3,Housekeeping supplies,0.847,CUSR0000SEHN
+3,Information and information processing,3.181,CUSR0000SAE21
+3,"Information technology, hardware and services",1.714,CUSR0000SEEE
+3,Intracity transportation,0.355,CUUR0000SETG03
+3,Jewelry,0.128,CUSR0000SEAG02
+3,Lodging away from home,1.289,CUSR0000SEHB
+3,Medical equipment and supplies,0.135,CUUR0000SEMG
+3,Medicinal drugs,1.354,CUSR0000SEMF
+3,Men's apparel,0.472,CUSR0000SEAA
+3,Men's footwear,0.191,CUSR0000SEAE01
+3,Miscellaneous personal goods,0.184,CUSR0000SEGE
+3,Miscellaneous personal services,0.922,CUSR0000SEGD
+3,Motor fuel,2.981,CUSR0000SETB
+3,Motor vehicle fees,0.505,CUUR0000SETF
+3,Motor vehicle insurance,2.754,CUSR0000SETE
+3,Motor vehicle maintenance and repair,1.039,CUSR0000SETD
+3,Motor vehicle parts and equipment,0.349,CUSR0000SETC
+3,Music instruments and accessories,0.043,CUSR0000SERE03
+3,New and used motor vehicles,7.204,CUSR0000SETA
+3,Newspapers and magazines,0.054,CUUR0000SERG01
+3,Other household equipment and furnishings,0.566,CUSR0000SEHL
+3,Other intercity transportation,0.244,CUSR0000SETG02
+3,Other video equipment,0.017,CUSR0000SERA03
+3,Owners' equivalent rent of residences,26.204,CUSR0000SEHC
+3,Personal care products,0.674,CUSR0000SEGB
+3,Personal care services,0.676,CUUR0000SEGC
+3,Pet services including veterinary,0.546,CUSR0000SERB02
+3,Pets and pet products,0.612,CUSR0000SERB01
+3,Photographers and photo processing,0.037,CUUR0000SERD02
+3,Photographic equipment and supplies,0.026,CUSR0000SERD01
+3,Postage and delivery services,0.064,CUSR0000SEEC
+3,Professional services,3.426,CUSR0000SEMC
+3,"Purchase, subscription, and rental of video",0.188,CUUR0000SERA04
+3,Recorded music and music subscriptions,0.082,CUUR0000SERA06
+3,Recreational books,0.06,CUUR0000SERG02
+3,Rent of primary residence,7.84,CUSR0000SEHA
+3,"Sewing machines, fabric and supplies",0.029,CUSR0000SERE02
+3,Sports equipment,0.231,CUSR0000SERC02
+3,Sports vehicles including bicycles,0.284,CUSR0000SERC01
+3,Televisions,0.107,CUSR0000SERA01
+3,Tenants' and household insurance,0.292,CUUR0000SEHD
+3,Tobacco products other than cigarettes,0.114,CUUR0000SEGA02
+3,"Tools, hardware, outdoor equipment and supplies",0.691,CUSR0000SEHM
+3,Toys,0.293,CUSR0000SERE01
+3,"Tuition, other school fees, and childcare",2.564,CUSR0000SEEB
+3,Watches,0.035,CUSR0000SEAG01
+3,Water and sewer and trash collection services,1.144,CUSR0000SEHG
+3,Window and floor coverings and other linens,0.238,CUSR0000SEHH
+3,Women's apparel,0.787,CUSR0000SEAC
+3,Women's footwear,0.269,CUSR0000SEAE03
+4,Alcoholic beverages at home,0.397,CUSR0000SEFW
+4,Alcoholic beverages away from home,0.443,CUSR0000SEFX
+4,Apparel services other than laundry and dry cleaning,0.029,CUUR0000SEGD04
+4,Bedroom furniture,0.305,CUUR0000SEHJ01
+4,Car and truck rental,0.138,CUSR0000SETA04
+4,Cereals and bakery products,1.035,CUSR0000SAF111
+4,"Clocks, lamps, and decorator items",0.329,CUUR0000SEHL01
+4,College tuition and fees,1.351,CUSR0000SEEB01
+4,Computer software and accessories,0.027,CUUR0000SEEE02
+4,"Computers, peripherals, and smart home assistants",0.293,CUSR0000SEEE01
+4,"Cosmetics, perfume, bath, nail preparations and implements",0.34,CUUR0000SEGB02
+4,Dairy and related products,0.758,CUSR0000SEFJ
+4,Day care and preschool,0.699,CUSR0000SEEB03
+4,Delivery services,0.005,CUSR0000SEEC02
+4,Dental services,0.904,CUSR0000SEMC02
+4,Dishes and flatware,0.043,CUUR0000SEHL03
+4,Domestic services,0.277,CUUR0000SEHP01
+4,Elementary and high school tuition and fees,0.408,CUSR0000SEEB02
+4,Energy services,3.262,CUSR0000SEHF
+4,Eyeglasses and eye care,0.327,CUSR0000SEMC03
+4,Financial services,0.236,CUSR0000SEGD05
+4,Floor coverings,0.07,CUUR0000SEHH01
+4,Food at employee sites and schools,0.065,CUSR0000SEFV03
+4,Food from vending machines and mobile vendors,0.054,CUUR0000SEFV04
+4,Fruits and vegetables,1.269,CUSR0000SAF113
+4,Fuel oil and other fuels,0.14,CUSR0000SEHE
+4,Full service meals and snacks,2.386,CUSR0000SEFV01
+4,Funeral expenses,0.166,CUSR0000SEGD02
+4,Garbage and trash collection,0.361,CUSR0000SEHG02
+4,Gardening and lawncare services,0.363,CUUR0000SEHP02
+4,Gasoline (all types),2.895,CUSR0000SETB01
+4,"Hair, dental, shaving, and miscellaneous personal care products",0.324,CUUR0000SEGB01
+4,Haircuts and other personal care services,0.676,CUUR0000SEGC01
+4,Hospital services,2.167,CUSR0000SEMD01
+4,Household cleaning products,0.308,CUSR0000SEHN01
+4,Household paper products,0.175,CUUR0000SEHN02
+4,Indoor plants and flowers,0.121,CUSR0000SEHL02
+4,Internet services and electronic information providers,0.923,CUSR0000SEEE03
+4,Laundry and dry cleaning services,0.129,CUSR0000SEGD03
+4,Leased cars and trucks,0.394,CUSR0000SETA03
+4,Legal services,0.27,CUSR0000SEGD01
+4,Limited service meals and snacks,2.684,CUUR0000SEFV02
+4,"Living room, kitchen, and dining room furniture",0.438,CUUR0000SEHJ02
+4,Major appliances,0.065,CUSR0000SEHK01
+4,"Meats, poultry, fish, and eggs",1.995,CUSR0000SAF112
+4,Men's pants and shorts,0.115,CUSR0000SEAA04
+4,Men's shirts and sweaters,0.126,CUSR0000SEAA03
+4,"Men's suits, sport coats, and outerwear",0.097,CUSR0000SEAA01
+4,"Men's underwear, nightwear, swimwear, and accessories",0.13,CUSR0000SEAA02
+4,Miscellaneous household products,0.364,CUSR0000SEHN03
+4,Motor vehicle body work,0.058,CUUR0000SETD01
+4,Motor vehicle maintenance and servicing,0.514,CUUR0000SETD02
+4,Motor vehicle repair,0.399,CUSR0000SETD03
+4,"Moving, storage, freight expense",0.067,CUSR0000SEHP03
+4,New vehicles,3.838,CUSR0000SETA01
+4,Nonalcoholic beverages and beverage materials,0.995,CUSR0000SAF114
+4,Nonelectric cookware and tableware,0.072,CUSR0000SEHL04
+4,Nonprescription drugs,0.381,CUSR0000SEMF02
+4,Nursing homes and adult day services,0.221,CUSR0000SEMD02
+4,Other appliances,0.123,CUSR0000SEHK02
+4,Other food at home,2.273,CUSR0000SAF115
+4,Other food away from home,0.185,CUSR0000SEFV05
+4,Other furniture,0.136,CUSR0000SEHJ03
+4,Other linens,0.123,CUSR0000SEHH03
+4,Other lodging away from home including hotels and motels,1.068,CUSR0000SEHB02
+4,Other motor fuels,0.086,CUSR0000SETB02
+4,Outdoor equipment and supplies,0.3,CUSR0000SEHM02
+4,Owners' equivalent rent of primary residence,25.23,CUSR0000SEHC01
+4,Parking and other fees,0.189,CUSR0000SETF03
+4,Physicians' services,1.684,CUSR0000SEMC01
+4,Postage,0.059,CUSR0000SEEC01
+4,Prescription drugs,0.973,CUSR0000SEMF01
+4,Repair of household items,0.097,CUUR0000SEHP04
+4,Services by other medical professionals,0.511,CUSR0000SEMC04
+4,State motor vehicle registration and license fees,0.296,CUUR0000SETF01
+4,"Telephone hardware, calculators, and other consumer information items",0.461,CUSR0000SEEE04
+4,Telephone services,1.466,CUUR0000SEED
+4,Tires,0.293,CUSR0000SETC01
+4,"Tools, hardware and supplies",0.21,CUSR0000SEHM01
+4,Used cars and trucks,2.759,CUSR0000SETA02
+4,Vehicle accessories other than tires,0.056,CUUR0000SETC02
+4,Water and sewerage maintenance,0.783,CUSR0000SEHG01
+4,Window coverings,0.046,CUSR0000SEHH02
+4,Women's dresses,0.104,CUSR0000SEAC02
+4,Women's outerwear,0.068,CUSR0000SEAC01
+4,Women's suits and separates,0.366,CUSR0000SEAC03
+4,"Women's underwear, nightwear, swimwear, and accessories",0.234,CUSR0000SEAC04
+5,Bakery products,0.721,CUSR0000SEFB
+5,"Beer, ale, and other malt beverages at home",0.135,CUSR0000SEFW01
+5,Beverage materials including coffee and tea,0.32,CUSR0000SEFP
+5,Cereals and cereal products,0.315,CUSR0000SEFA
+5,Cheese and related products,0.261,CUSR0000SEFJ02
+5,Distilled spirits at home,0.09,CUSR0000SEFW02
+5,Eggs,0.133,CUSR0000SEFH
+5,Electricity,2.489,CUSR0000SEHF01
+5,Fats and oils,0.231,CUSR0000SEFS
+5,Fresh fruits and vegetables,1.008,CUSR0000SAF1131
+5,Fuel oil,0.083,CUSR0000SEHE01
+5,Ice cream and related products,0.115,CUSR0000SEFJ03
+5,Juices and nonalcoholic drinks,0.675,CUSR0000SEFN
+5,"Meats, poultry, and fish",1.862,CUSR0000SAF1121
+5,Milk,0.19,CUSR0000SEFJ01
+5,Other dairy and related products,0.192,CUSR0000SEFJ04
+5,Other foods,1.714,CUSR0000SEFT
+5,Processed fruits and vegetables,0.262,CUSR0000SEFM
+5,"Propane, kerosene, and firewood",0.057,CUSR0000SEHE02
+5,Residential telephone services,0.126,CUUR0000SEED04
+5,Sugar and sweets,0.328,CUSR0000SEFR
+5,Utility (piped) gas service,0.773,CUSR0000SEHF02
+5,Wine at home,0.172,CUSR0000SEFW03
+5,Wireless telephone services,1.34,CUUR0000SEED03
+6,Baby food and formula,0.053,CUUR0000SEFT05
+6,Bread,0.175,CUSR0000SEFB01
+6,Breakfast cereal,0.136,CUSR0000SEFA02
+6,Butter and margarine,0.066,CUSR0000SEFS01
+6,"Cakes, cupcakes, and cookies",0.21,CUSR0000SEFB03
+6,Candy and chewing gum,0.241,CUSR0000SEFR02
+6,Canned fruits and vegetables,0.096,CUSR0000SEFM01
+6,Carbonated drinks,0.324,CUSR0000SEFN01
+6,Coffee,0.221,CUSR0000SEFP01
+6,Fish and seafood,0.314,CUSR0000SEFG
+6,Flour and prepared flour mixes,0.038,CUSR0000SEFA01
+6,"Fresh biscuits, rolls, muffins",0.12,CUSR0000SEFB02
+6,Fresh fruits,0.532,CUSR0000SEFK
+6,Fresh vegetables,0.476,CUSR0000SEFL
+6,Frozen and freeze dried prepared foods,0.305,CUSR0000SEFT02
+6,Frozen fruits and vegetables,0.084,CUSR0000SEFM02
+6,Frozen noncarbonated juices and drinks,0.004,CUUR0000SEFN02
+6,Meats,1.186,CUSR0000SAF11211
+6,Nonfrozen noncarbonated juices and drinks,0.346,CUSR0000SEFN03
+6,Other bakery products,0.217,CUSR0000SEFB04
+6,Other beverage materials including tea,0.099,CUSR0000SEFP02
+6,Other fats and oils including peanut butter,0.11,CUSR0000SEFS03
+6,Other miscellaneous foods,0.582,CUSR0000SEFT06
+6,Other processed fruits and vegetables including dried,0.082,CUSR0000SEFM03
+6,Other sweets,0.055,CUSR0000SEFR03
+6,Poultry,0.363,CUSR0000SEFF
+6,"Rice, pasta, cornmeal",0.141,CUSR0000SEFA03
+6,Salad dressing,0.055,CUSR0000SEFS02
+6,Snacks,0.372,CUSR0000SEFT03
+6,Soups,0.085,CUSR0000SEFT01
+6,"Spices, seasonings, condiments, sauces",0.317,CUSR0000SEFT04
+6,Sugar and sugar substitutes,0.032,CUSR0000SEFR01
+7,Apples,0.073,CUSR0000SEFK01
+7,Bananas,0.06,CUSR0000SEFK02
+7,Beef and veal,0.638,CUSR0000SEFC
+7,Chicken,0.291,CUSR0000SEFF01
+7,Citrus fruits,0.077,CUSR0000SEFK03
+7,Fresh fish and seafood,0.165,CUSR0000SEFG01
+7,Lettuce,0.044,CUSR0000SEFL02
+7,Other fresh fruits,0.322,CUSR0000SEFK04
+7,Other fresh vegetables,0.305,CUSR0000SEFL04
+7,Other meats,0.207,CUSR0000SEFE
+7,Other uncooked poultry including turkey,0.072,CUSR0000SEFF02
+7,Pork,0.34,CUSR0000SEFD
+7,Potatoes,0.063,CUSR0000SEFL01
+7,Processed fish and seafood,0.149,CUSR0000SEFG02
+7,Tomatoes,0.063,CUSR0000SEFL03
+8,"Bacon, breakfast sausage, and related products",0.131,CUSR0000SEFD01
+8,Ham,0.066,CUSR0000SEFD02
+8,"Other pork including roasts, steaks, and ribs",0.097,CUSR0000SEFD04
+8,Pork chops,0.046,CUSR0000SEFD03
+8,Uncooked beef roasts,0.087,CUSR0000SEFC02
+8,Uncooked beef steaks,0.24,CUSR0000SEFC03
+8,Uncooked ground beef,0.236,CUSR0000SEFC01
+8,Uncooked other beef and veal,0.076,CUUR0000SEFC04
